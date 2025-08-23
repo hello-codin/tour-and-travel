@@ -40,6 +40,6 @@ Top Destination Page: Showcases top travel destinations with captivating imagery
 
 ◼Contact Us Page: Provides a user-friendly contact page with essential contact information inquiry forms, and interactive maps for visitors to reach out and engage with our travel company effortlessly.
 
-##live project✈: https://hello-codin.github.io/tour-and-travel/
+##live project✈: https://deeksha14agarwal.github.io/tour-and-travel/
 
 
